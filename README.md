@@ -1,7 +1,7 @@
 # Shader Based Image Processing
 
 ## Pratical Work
-[View the PDF](./PW - 1 - Shader based Image Processing.pdf)
+[View the PDF](./PW-1-Shader\ based\ Image\ Processing.pdf)
 
 ## Installation
 
