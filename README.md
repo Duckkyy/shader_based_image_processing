@@ -1,7 +1,7 @@
 # Shader Based Image Processing
 
 ## Pratical Work
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.couleur.org/cours/RealTimeForImageProcessing/Pratical%20Works/PW%20-%201%20-%20Shader%20based%20Image%20Processing.pdf
+[Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.couleur.org/cours/RealTimeForImageProcessing/Pratical%20Works/PW%20-%201%20-%20Shader%20based%20Image%20Processing.pdf) to access pratical work
 
 ## Installation
 
