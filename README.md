@@ -1,8 +1,5 @@
 # Shader Based Image Processing
 
-## Pratical Work
-[View the PDF](./PW-1-Shader\ based\ Image\ Processing.pdf)
-
 ## Installation
 
 1. Install [node](https://nodejs.org/en)
